@@ -23,8 +23,5 @@ public class Programa {
 		System.out.println(resposta.statusCode());
 		System.out.println(resposta.body());
 		
-		
-
 	}
-
 }
